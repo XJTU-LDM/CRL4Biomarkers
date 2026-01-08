@@ -13,6 +13,8 @@ This project introduces a novel **continual reinforcement learning (CRL)** frame
 *   **Benchmark Datasets:** Includes processed and scripted access to public genomic datasets (e.g., from TCGA) relevant to ICT response.
 *   **Reproducible Pipeline:** End-to-end code for data preprocessing, model training, evaluation, and visualization of decoupled signal trajectories.
 *   **Biomarker Discovery:** Tools to extract and interpret the top predictive features identified by the model as potential novel biomarkers.
-
+**Main scripts:**
+- `hssltrain2.py` - Training script
+- `test.py` - Testing script
 ## Citation
 If you use this code in your research, please cite our paper:
